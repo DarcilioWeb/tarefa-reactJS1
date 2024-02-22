@@ -1,4 +1,6 @@
-Primeira tarefa de ReactJS feita hello world
+Primeira tarefa de ReactJS feita Hello World
+
+So nao esqueça de fazer um npm install na pasta
 
 # React + Vite
 
